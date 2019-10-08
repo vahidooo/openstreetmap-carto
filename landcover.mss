@@ -14,7 +14,7 @@
 @built-up-lowzoom: #aaaaaa;
 @built-up-z11: #c0c0c0;
 @built-up-z12: #d0d0d0;
-@residential: #e0dfdf;      // Lch(89,0,0)
+@residential: #f0efef;      // Lch(89,0,0)
 @residential-line: #b9b9b9; // Lch(75,0,0)
 @retail: #ffd6d1;           // Lch(89,16,30)
 @retail-line: #d99c95;      // Lch(70,25,30)
@@ -46,7 +46,7 @@
 @construction: #c7c7b4; // also brownfield
 @heath: #d6d99f;
 @mud: rgba(203,177,154,0.3); // produces #e6dcd1 over @land
-@place_of_worship: #d0d0d0; // also landuse_religious
+@place_of_worship: #e0e0e0; // also landuse_religious
 @place_of_worship_outline: darken(@place_of_worship, 30%);
 @leisure: lighten(@park, 5%);
 @power: darken(@industrial, 5%);

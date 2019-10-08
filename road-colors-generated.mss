@@ -16,11 +16,11 @@
 @trunk-shield: #5d1b0b;
 @primary-shield: #4c2e00;
 @secondary-shield: #323b00;
-@motorway-low-zoom: #e66e89;
-@trunk-low-zoom: #f5977a;
+@motorway-low-zoom: #e6de39;
+@trunk-low-zoom: #f5e72a;
 @primary-low-zoom: #f3c380;
 @secondary-low-zoom: #e8eda0;
-@motorway-fill: #e892a2;
-@trunk-fill: #f9b29c;
+@motorway-fill: #e8d252;
+@trunk-fill: #f9e24c;
 @primary-fill: #fcd6a4;
 @secondary-fill: #f7fabf;
